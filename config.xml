@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <root>
 <username>xxx.xxxxx</username>
-<token>xxx123yyy456</token>
+<token>google_authenticator_token</token>
 <driver>chromedriver_path</driver>
 <ui>true</ui>
 </root>
